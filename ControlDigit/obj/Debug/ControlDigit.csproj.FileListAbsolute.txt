@@ -1,0 +1,6 @@
+C:\Users\Akashic\Downloads\tactical-design-patterns-dot-net-control-flow\4-exercise-files\01 ControlDigit - Before\ControlDigit\bin\Debug\ControlDigit.exe.config
+C:\Users\Akashic\Downloads\tactical-design-patterns-dot-net-control-flow\4-exercise-files\01 ControlDigit - Before\ControlDigit\bin\Debug\ControlDigit.exe
+C:\Users\Akashic\Downloads\tactical-design-patterns-dot-net-control-flow\4-exercise-files\01 ControlDigit - Before\ControlDigit\bin\Debug\ControlDigit.pdb
+C:\Users\Akashic\Downloads\tactical-design-patterns-dot-net-control-flow\4-exercise-files\01 ControlDigit - Before\ControlDigit\obj\Debug\ControlDigit.csprojResolveAssemblyReference.cache
+C:\Users\Akashic\Downloads\tactical-design-patterns-dot-net-control-flow\4-exercise-files\01 ControlDigit - Before\ControlDigit\obj\Debug\ControlDigit.exe
+C:\Users\Akashic\Downloads\tactical-design-patterns-dot-net-control-flow\4-exercise-files\01 ControlDigit - Before\ControlDigit\obj\Debug\ControlDigit.pdb
